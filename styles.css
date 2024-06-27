@@ -1,4 +1,4 @@
-/* styles.css */
+
 
 body {
     font-family: 'Arial', sans-serif;
@@ -32,7 +32,7 @@ header nav h1 {
     font-size: 24px;
     display: flex;
     align-items: center;
-    margin-left: 0; /* Add this to align icons to the left */
+    margin-left: 0;
 }
 
 header nav h1 .logo {
